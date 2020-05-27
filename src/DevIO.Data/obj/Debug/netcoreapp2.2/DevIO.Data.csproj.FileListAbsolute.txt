@@ -1,0 +1,12 @@
+C:\Diogo\Cursos\Dominando o ASP.NET MVC Core\MinhaAppMvc\src\DevIO.Data\bin\Debug\netcoreapp2.2\DevIO.Business.dll
+C:\Diogo\Cursos\Dominando o ASP.NET MVC Core\MinhaAppMvc\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.csprojAssemblyReference.cache
+C:\Diogo\Cursos\Dominando o ASP.NET MVC Core\MinhaAppMvc\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.AssemblyInfoInputs.cache
+C:\Diogo\Cursos\Dominando o ASP.NET MVC Core\MinhaAppMvc\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.AssemblyInfo.cs
+C:\Diogo\Cursos\Dominando o ASP.NET MVC Core\MinhaAppMvc\src\DevIO.Data\bin\Debug\netcoreapp2.2\DevIO.Data.deps.json
+C:\Diogo\Cursos\Dominando o ASP.NET MVC Core\MinhaAppMvc\src\DevIO.Data\bin\Debug\netcoreapp2.2\DevIO.Data.dll
+C:\Diogo\Cursos\Dominando o ASP.NET MVC Core\MinhaAppMvc\src\DevIO.Data\bin\Debug\netcoreapp2.2\DevIO.Data.pdb
+C:\Diogo\Cursos\Dominando o ASP.NET MVC Core\MinhaAppMvc\src\DevIO.Data\bin\Debug\netcoreapp2.2\DevIO.Business.pdb
+C:\Diogo\Cursos\Dominando o ASP.NET MVC Core\MinhaAppMvc\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.csproj.CopyComplete
+C:\Diogo\Cursos\Dominando o ASP.NET MVC Core\MinhaAppMvc\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.dll
+C:\Diogo\Cursos\Dominando o ASP.NET MVC Core\MinhaAppMvc\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.pdb
+C:\Diogo\Cursos\Dominando o ASP.NET MVC Core\MinhaAppMvc\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.csproj.CoreCompileInputs.cache
