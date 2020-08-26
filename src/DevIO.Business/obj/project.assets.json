@@ -820,11 +820,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Diogo\\Cursos\\Dominando o ASP.NET MVC Core\\MinhaAppMvc\\src\\DevIO.Business\\DevIO.Business.csproj",
+      "projectUniqueName": "C:\\Diogo\\Cursos\\ASP.NET\\Dominando o ASP.NET MVC Core\\MinhaAppMvc\\src\\DevIO.Business\\DevIO.Business.csproj",
       "projectName": "DevIO.Business",
-      "projectPath": "C:\\Diogo\\Cursos\\Dominando o ASP.NET MVC Core\\MinhaAppMvc\\src\\DevIO.Business\\DevIO.Business.csproj",
+      "projectPath": "C:\\Diogo\\Cursos\\ASP.NET\\Dominando o ASP.NET MVC Core\\MinhaAppMvc\\src\\DevIO.Business\\DevIO.Business.csproj",
       "packagesPath": "C:\\Users\\Palte\\.nuget\\packages\\",
-      "outputPath": "C:\\Diogo\\Cursos\\Dominando o ASP.NET MVC Core\\MinhaAppMvc\\src\\DevIO.Business\\obj\\",
+      "outputPath": "C:\\Diogo\\Cursos\\ASP.NET\\Dominando o ASP.NET MVC Core\\MinhaAppMvc\\src\\DevIO.Business\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

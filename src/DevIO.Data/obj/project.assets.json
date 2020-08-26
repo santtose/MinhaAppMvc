@@ -3525,11 +3525,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Diogo\\Cursos\\Dominando o ASP.NET MVC Core\\MinhaAppMvc\\src\\DevIO.Data\\DevIO.Data.csproj",
+      "projectUniqueName": "C:\\Diogo\\Cursos\\ASP.NET\\Dominando o ASP.NET MVC Core\\MinhaAppMvc\\src\\DevIO.Data\\DevIO.Data.csproj",
       "projectName": "DevIO.Data",
-      "projectPath": "C:\\Diogo\\Cursos\\Dominando o ASP.NET MVC Core\\MinhaAppMvc\\src\\DevIO.Data\\DevIO.Data.csproj",
+      "projectPath": "C:\\Diogo\\Cursos\\ASP.NET\\Dominando o ASP.NET MVC Core\\MinhaAppMvc\\src\\DevIO.Data\\DevIO.Data.csproj",
       "packagesPath": "C:\\Users\\Palte\\.nuget\\packages\\",
-      "outputPath": "C:\\Diogo\\Cursos\\Dominando o ASP.NET MVC Core\\MinhaAppMvc\\src\\DevIO.Data\\obj\\",
+      "outputPath": "C:\\Diogo\\Cursos\\ASP.NET\\Dominando o ASP.NET MVC Core\\MinhaAppMvc\\src\\DevIO.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3548,8 +3548,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Diogo\\Cursos\\Dominando o ASP.NET MVC Core\\MinhaAppMvc\\src\\DevIO.Business\\DevIO.Business.csproj": {
-              "projectPath": "C:\\Diogo\\Cursos\\Dominando o ASP.NET MVC Core\\MinhaAppMvc\\src\\DevIO.Business\\DevIO.Business.csproj"
+            "C:\\Diogo\\Cursos\\ASP.NET\\Dominando o ASP.NET MVC Core\\MinhaAppMvc\\src\\DevIO.Business\\DevIO.Business.csproj": {
+              "projectPath": "C:\\Diogo\\Cursos\\ASP.NET\\Dominando o ASP.NET MVC Core\\MinhaAppMvc\\src\\DevIO.Business\\DevIO.Business.csproj"
             }
           }
         }

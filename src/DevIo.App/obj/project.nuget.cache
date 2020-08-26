@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "slsc2mBTAZFkdy1+d9V1iCF7sq1sFY3D7/ndHDX+bga3dbIDzuKeMIeB+QRSp38E/uxI8G2cWsATXKT68rllRw==",
+  "dgSpecHash": "Bsj64XCxNpS4sGr7YxlZr+hzM0z2ik4wBHDGd0h54nLA5dUOj7whysTpQxECXYLYeIx1T5yiivXHq++kbOlx8Q==",
   "success": true,
-  "projectFilePath": "C:\\Diogo\\Cursos\\Dominando o ASP.NET MVC Core\\MinhaAppMvc\\src\\DevIo.App\\DevIO.App.csproj",
+  "projectFilePath": "C:\\Diogo\\Cursos\\ASP.NET\\Dominando o ASP.NET MVC Core\\MinhaAppMvc\\src\\DevIo.App\\DevIO.App.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Palte\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
     "C:\\Users\\Palte\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\7.0.0\\automapper.extensions.microsoft.dependencyinjection.7.0.0.nupkg.sha512",

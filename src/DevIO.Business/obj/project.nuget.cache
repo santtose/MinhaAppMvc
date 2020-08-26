@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "w7pobQbT2ph6TKPmxYHNOlsCCnzcjPjp2iEvf6de0jpSIrCAp4bOyBthAMmV06rMGWWJnmWtaf5vLfixUf1Z9Q==",
+  "dgSpecHash": "KC/on0zN4ATd+v4Vs52Vdfq1o1FbASSr+5TZYGIyj08Zwtz9kYv/PVk7TaF/3DEJ0g4ROOANqeuAhSzr+Cb5ZQ==",
   "success": true,
-  "projectFilePath": "C:\\Diogo\\Cursos\\Dominando o ASP.NET MVC Core\\MinhaAppMvc\\src\\DevIO.Business\\DevIO.Business.csproj",
+  "projectFilePath": "C:\\Diogo\\Cursos\\ASP.NET\\Dominando o ASP.NET MVC Core\\MinhaAppMvc\\src\\DevIO.Business\\DevIO.Business.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Palte\\.nuget\\packages\\fluentvalidation\\8.6.2\\fluentvalidation.8.6.2.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.app\\2.2.0\\microsoft.netcore.app.2.2.0.nupkg.sha512",

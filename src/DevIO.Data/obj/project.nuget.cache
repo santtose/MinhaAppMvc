@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kzuQL3rVbNJzc3yDU/GOIECa6x8TJzQDyUgTmrmfpnRAMDu3ikhWgwDJgeK3cTdQdOSljbUDGhPM7pFLaX49Og==",
+  "dgSpecHash": "fPlgkAwcxSEwIm4MkypL8Nf2WBkYKzHCeFeucRSoQXuajMvRZK50y6Tncob54ackRXyaUVWy0Km/yRH2tq1bVg==",
   "success": true,
-  "projectFilePath": "C:\\Diogo\\Cursos\\Dominando o ASP.NET MVC Core\\MinhaAppMvc\\src\\DevIO.Data\\DevIO.Data.csproj",
+  "projectFilePath": "C:\\Diogo\\Cursos\\ASP.NET\\Dominando o ASP.NET MVC Core\\MinhaAppMvc\\src\\DevIO.Data\\DevIO.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Palte\\.nuget\\packages\\fluentvalidation\\8.6.2\\fluentvalidation.8.6.2.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.entityframeworkcore\\2.2.0\\microsoft.entityframeworkcore.2.2.0.nupkg.sha512",

@@ -161,7 +161,7 @@ namespace DevIO.App.Controllers
 
             await _fornecedorService.AtualizarEndereço(_mapper.Map<Endereco>(fornecedorViewModel.Endereco));
 
-            var url = Url.Action("ObterEndereco", "Fornecedores", new { id = fornecedorViewModel.Endereco.ForenecedorId });
+            var url = Url.Action("ObterEndereco", "Fornecedores", new { id = fornecedorViewModel.Endereco.FornecedorId });
             return Json(new { success = true, url });
         }
 
